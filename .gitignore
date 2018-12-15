@@ -16,6 +16,7 @@ MemeNote.ipynb
 *.o
 *.so
 *.npy
+/im2txt/.ipynb_checkpoints
 
 # Packages #
 ############
